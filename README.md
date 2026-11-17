@@ -59,10 +59,6 @@ Os resultados descrevem o desempenho observado **neste universo e nesta janela O
 
 ## Limitações
 
-- **Viés de sobrevivência e seleção retrospectiva:** o universo foi definido a partir de uma lista de ativos disponível no momento do estudo, e não reconstruído com base nos componentes históricos do mercado.
-- **Uma única divisão IS/OOS:** não foi realizado um teste *walk-forward* com múltiplas janelas de estimação e avaliação.
-- **Sem rebalanceamento:** a estratégia buy and hold permite que os pesos se alterem com a valorização ou desvalorização dos ativos.
-- **Sem custos e fricções:** não foram incorporados custos de transação, impostos, restrições de liquidez ou impacto de mercado.
 - **Sharpe com taxa livre de risco zero:** não foi utilizado o CDI histórico como benchmark de retorno livre de risco.
 - **Dependência dos dados:** resultados podem variar conforme atualizações, ajustes e disponibilidade das séries históricas no Yahoo Finance.
 
