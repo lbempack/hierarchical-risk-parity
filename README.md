@@ -1,4 +1,4 @@
-# Hierarchical Risk Parity (HRP) vs. Markowitz
+# Hierarchical Risk Parity (HRP) vs. Global Minimum Variance (GMV)
 
 ## Objetivo
 
